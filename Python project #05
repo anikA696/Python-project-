@@ -1,0 +1,6 @@
+girl_name = "tina"
+print("she is a girl named" + girl_name + ",")
+girl_age = "17"
+print("she is" + girl_age + "years old")
+girl_hobby = "reading"
+print("her hobby is" + girl_hobby + "a books")
